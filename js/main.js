@@ -229,7 +229,7 @@
 			$.ajax({      	
 
 		      type: "POST",
-		      url: "http://madphs.com/sendEmail.php",
+		      url: "inc/sendEmail.php",
 		      data: $(form).serialize(),
 		      beforeSend: function() { 
 
