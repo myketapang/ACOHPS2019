@@ -229,7 +229,7 @@
 			$.ajax({      	
 
 		      type: "POST",
-		      url: "myketapang.github.io/acohps2019/inc/sendEmail.php",
+		      url: "https://formspree.io/madphsmy@gmail.com",
 		      data: $(form).serialize(),
 		      beforeSend: function() { 
 
