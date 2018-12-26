@@ -44,7 +44,7 @@ body {
 	background: #0F1215;
 	font: 16px/30px "merriweather-regular", serif;
 	font-weight: normal;
-	color: #575859;
+	color: #ffffff;
 }
 
 /* links
@@ -516,14 +516,14 @@ legend {
 
 label span,
 legend span {
-	color: #575859;
+	color: #FFFF00;
 	font: 16px/30px "raleway-bold", sans-serif;
 }
 
 input[type="checkbox"],
 input[type="radio"] {
 	font-size: 15px;
-	color: #575859;
+	color: #FFFF00;
 }
 
 input[type="checkbox"] {
