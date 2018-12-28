@@ -137,7 +137,7 @@ p img {
 
 p.lead {
 	font: 20px/36px "merriweather-light", serif;
-	color: #707273;
+	color: #ffffff;
 }
 
 em {
@@ -195,7 +195,7 @@ blockquote cite:before {
 
 blockquote cite a,
 blockquote cite a:visited {
-	color: #707273;
+	color: #ffffff;
 	border: none;
 }
 
@@ -204,7 +204,7 @@ abbr {
 	font-variant: small-caps;
 	text-transform: lowercase;
 	letter-spacing: .5px;
-	color: #707273;
+	color: #ffffff;
 }
 
 pre,
@@ -221,7 +221,7 @@ pre {
 code {
 	padding: 3px;
 	background: #ECF0F1;
-	color: #707273;
+	color: #ffffff;
 	border-radius: 3px;
 }
 
@@ -241,7 +241,7 @@ mark {
 }
 
 hr {
-	border: solid #707273;
+	border: solid #ffffff;
 	border-width: 1px 0 0;
 	clear: both;
 	margin: 23px 0 12px;
@@ -1921,7 +1921,7 @@ ul#nav li.current a:after {
 
 #call-to-action p {
 	font: 20px/36px "merriweather-light", serif;
-	color: #707273;
+	color: #ffffff;
 	width: 75%;
 }
 
