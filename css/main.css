@@ -1021,7 +1021,7 @@ ul#nav li.current a:after {
 
 #hero-slider .slides .flex-caption h3 {
 	font: 18px/1.9 "merriweather-light", sans-serif;
-	color: rgba(255, 255, 255, 0.7);
+	color: rgba(255, 255, 255);
 	text-shadow: 0 1px 15px rgba(0, 0, 0, 0.5);
 	width: 85%;
 	margin-top: 24px;
