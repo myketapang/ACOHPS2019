@@ -51,7 +51,7 @@ submitButton.addEventListener('click', function (e) {
     } else {
       form.dataset.state = "success";
       alert('Correct Password!');
-          location.href = "http://google.com";
+          location.href = "https://share.hsforms.com/1YeRanBBuQWOVy7FUOqYQew352ek";
       TweenMax.to(checkPath, 0.65, {
         strokeDashoffset: 0 });
 
