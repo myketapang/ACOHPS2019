@@ -42,7 +42,7 @@ submitButton.addEventListener('click', function (e) {
 
 
   setTimeout(function () {
-    if (input.value != 'pass'){
+    if (input.value != 'B#sreg2019'){
       form.dataset.state = "error";
       TweenMax.to(close, 0.5, {
         rotation: 360 * 3,
