@@ -48,10 +48,17 @@
    <link rel="stylesheet" href="css/base.css">
    <link rel="stylesheet" href="css/vendor.min.css">
    <link rel="stylesheet" href="css/main.css">
+   <link href="toastr.css" rel="css/stylesheet"/>
 
    <!-- script
    ================================================== -->
 	<script src="js/modernizr.js"></script>
+  <script type="text/javascript">
+    $(window).on('load',function(){
+        $('#myModal').modal('show');
+    });
+
+</script>
 
    <!-- favicons
 	================================================== -->
@@ -60,11 +67,11 @@
 </head>
 
 <body>
-
-	<!-- header
+  	<!-- header
    ================================================== -->
    <header id="main-header">
-
+    <center> // Early bird registration – NOW EXTENDED! until July 15, 2019
+   </center>
    	<div class="row">
 
 	      <div class="logo">
@@ -99,6 +106,7 @@
 	   </div>
 
    </header> <!-- end header -->
+
 
 
    <!-- homepage hero
@@ -1013,6 +1021,7 @@ welcoming you in Penang!
 
    <div id="preloader">
     	<div id="loader"></div>
+
    </div>
 
    <!-- Java Script
@@ -1026,6 +1035,7 @@ welcoming you in Penang!
    <script src="js/jquery.placeholder.min.js"></script>
    <script src="js/jquery.magnific-popup.min.js"></script>
    <script src="js/main.js"></script>
+   <script src="js/toastr.js"></script>
 
 </body>
 
